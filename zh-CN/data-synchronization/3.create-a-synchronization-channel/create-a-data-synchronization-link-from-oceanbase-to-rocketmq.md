@@ -78,13 +78,12 @@
         <td>序列化方式</td>
         <td>控制数据同步至 RocketMQ 的消息格式，目前支持 Default、Canal、Dataworks（支持 2.0 版本）、SharePlex 和 DefaultExtendColumnType。</td>
         </tr>
-        <tr>
         <td>开启事务内序列编号</td>
-        <td>根据需求，设置是否开启事务内保持排序。如果开启，OMS 社区版可以为一个事务发送至下游进行顺序标识。</td>
+        <td>根据需求，设置是否开启事务内保持排序。如果开启，OMS 社区版可以为一个事务发送至下游进行顺序标识。<br><b>注意：</b>该参数仅对 <b>SharePlex</b> 格式生效，目的是为了确保您能够获取构成交易的 DML 语句的序号。<br>例如，在同一交易内包含 10 条 DML 语句（顺序为 1，2，3…10），则 OMS 社区版会按照 1，2，3 ...10 的顺序投递至目标端。<br>该选项会有性能损耗，请根据业务性质选择性开启。</td>
         </tr>
         <tr>
         <td>分区规则</td>
-        <td>同步 OceanBase 社区版的数据至 RocketMQ 的规则，目前仅支持 HASH。HASH 表示 OMS 社区版使用一定的 HASH 算法，根据数据的 HASH 值投递至 Kafka Topic 的不同分区中。</td>
+        <td>同步源端数据至 RocketMQ 的规则，目前仅支持 Hash。Hash 表示 OMS 社区版使用一定的 Hash 算法，根据主键值或分片列值 Hash 选择 RocketMQ 的 MQ。</td>
         </tr>
         <tr>
         <td rowspan="2">目标端</td>
