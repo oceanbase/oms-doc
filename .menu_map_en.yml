@@ -16,10 +16,10 @@
 6.o-m-manual=Operations and Maintenance Guide
 3.machine=Server
 4.component=Components
-1.store=Store
-2.connecter=Connector
-3.jdbcwriter=JDBCWriter
-4.checker=Checker
+1.store-1=Store
+2.connecter-1=Connector
+3.jdbcwriter-1=JDBCWriter
+4.checker-1=Checker
 5.o-m-tickets=O&M tickets
 6.description-of-component-parameters=Component parameters
 1.store-component-parameters=Store parameters
