@@ -17,7 +17,7 @@
 3.machine=Server
 4.component=Components
 1.store-1=Store
-2.connecter-1=Connector
+2.connector-1=Connector
 3.jdbcwriter-1=JDBCWriter
 4.checker-1=Checker
 5.o-m-tickets=O&M tickets
