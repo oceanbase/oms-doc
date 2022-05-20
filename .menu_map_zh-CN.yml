@@ -1,5 +1,6 @@
 1.product-introduction=产品简介
 2.product-architecture=产品架构
+2.deployment-guide=部署指南
 3.user-guide=用户指南
 1.console=管理控制台
 3.user-center=个人中心
@@ -25,3 +26,4 @@
 1.store-parameters=Store 组件参数说明
 2.connector-parameters=Connector 组件参数说明
 5.alarm-reference=告警参考
+6.api-reference=API 参考
