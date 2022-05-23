@@ -1,5 +1,6 @@
 1.product-introduction=Product Introduction
 2.product-architecture=Architecture
+2.deployment-guide=Deployment Guide
 3.user-guide=User Guide
 1.console=OMS Community Edition console
 3.user-center=User center
@@ -25,3 +26,4 @@
 1.store-parameters=Store parameters
 2.connector-parameters=Connector parameters
 5.alarm-reference=Alert Reference
+6.api-reference=API Reference
