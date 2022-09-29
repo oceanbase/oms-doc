@@ -26,5 +26,7 @@
 2.connector-parameters=Connector 组件参数说明
 7.system-management=系统管理
 2.alert-center=告警中心
+4.system-parameters=系统参数
 5.alarm-reference=告警参考
 6.api-reference=API 参考
+7.upgrade-guide=升级指南
