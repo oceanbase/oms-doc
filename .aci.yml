@@ -1,4 +1,3 @@
-
 stages:
   - build
   
@@ -33,4 +32,3 @@ build:
     html:
       index: index.html
       displayName: '在线预览'
- 

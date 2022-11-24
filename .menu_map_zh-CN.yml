@@ -1,32 +1,50 @@
-1.product-introduction=产品简介
-2.product-architecture=产品架构
-2.deployment-guide=部署指南
-3.user-guide=用户指南
-1.console=管理控制台
+2.product-introduction=OMS 简介
+3.architecture=系统架构
+3.quick-start=快速上手
+4.deployment-guide=部署 OMS
+5.oms-console=管理控制台
 3.user-center=个人中心
-2.users-and-privileges=用户及权限
-3.manage-data-sources=数据源管理
-1.add-a-data-source=添加数据源
-4.data-migration=数据迁移
-3.create-a-data-migration-project=创建数据迁移项目
-4.manage-data-migration-projects=管理数据迁移项目
-5.data-synchronization=数据同步
-3.create-a-synchronization-project=创建数据同步项目
-4.manage-data-synchronization-projects=管理数据同步项目
-6.o-m-manual=运维监控
-2.server=机器
-3.components=组件
+6.data-migration=数据迁移
+15.manage-data-migration-projects=管理数据迁移项目
+7.data-synchronization=数据同步
+11.manage-a-data-synchronization-projects=管理数据同步项目
+8.create-and-manage-data-sources=新建及管理数据源
+1.create-a-data-source=新建数据源
+2.manage-data-sources=管理数据源
+9.o-m-manual=运维监控
+3.server=机器
+4.components=组件
 1.store=Store
 2.connector=Connector
 3.jdbcwriter=JDBCWriter
 4.checker=Checker
-4.o-m-tickets=运维工单
-5.description-of-component-parameters=组件参数说明
-1.store-parameters=Store 组件参数说明
-2.connector-parameters=Connector 组件参数说明
-7.system-management=系统管理
+5.o-m-tickets=运维工单
+10.system-management=系统管理
 2.alert-center=告警中心
 4.system-parameters=系统参数
-5.alarm-reference=告警参考
-6.api-reference=API 参考
-7.upgrade-guide=升级指南
+11.o-m-guide=运维 OMS
+4.store-component-parameters=Store 组件参数说明
+8.connector-parameters=Connector 组件参数说明
+12.reference-guide=参考指南
+1.api-reference=API 参考
+3.alarm-reference=告警参考
+13.upgrade-guide=升级指南
+14.faq=常见问题
+1.general-o-m=一般运维
+2.project-diagnosis=项目诊断
+3.ops-monitoring=运维监控
+4.data-sync=数据同步
+1.sync-data-to-message-queue=同步到消息队列常见问题
+5.data-migration-1=数据迁移
+4.full-migration=全量迁移
+3.full-faq=全量常见问题
+5.incremental-synchronization=增量同步
+10.deployment=安装部署
+
+
+
+
+
+
+
+
