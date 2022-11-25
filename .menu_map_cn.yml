@@ -1,7 +1,7 @@
-2.product-introduction=OMS 简介
+2.product-introduction=OMS 社区版简介
 3.architecture=系统架构
 3.quick-start=快速上手
-4.deployment-guide=部署 OMS
+4.deployment-guide=部署 OMS 社区版
 5.oms-console=管理控制台
 3.user-center=个人中心
 6.data-migration=数据迁移
@@ -22,7 +22,7 @@
 10.system-management=系统管理
 2.alert-center=告警中心
 4.system-parameters=系统参数
-11.o-m-guide=运维 OMS
+11.o-m-guide=运维 OMS 社区版
 4.store-component-parameters=Store 组件参数说明
 8.connector-parameters=Connector 组件参数说明
 12.reference-guide=参考指南
