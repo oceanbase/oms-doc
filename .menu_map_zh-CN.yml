@@ -20,6 +20,7 @@
 4.checker=Checker
 5.o-m-tickets=运维工单
 10.system-management=系统管理
+1.permission-management=权限管理
 2.alert-center=告警中心
 4.system-parameters=系统参数
 11.o-m-guide=运维 OMS 社区版
