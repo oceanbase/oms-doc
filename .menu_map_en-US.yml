@@ -1,7 +1,7 @@
 2.product-introduction=OMS Community Edition Introduction
 3.architecture=Architecture
 3.quick-start=Quick Start
-4.deployment-guide=Deployment Guide
+4.deployment-guide=Deploy OMS Community Edition
 5.oms-console=OMS Community Edition console
 3.user-center=User center
 6.data-migration=Data migration
@@ -23,7 +23,7 @@
 10.system-management=System management
 2.alert-center=Alert center
 4.system-parameters=System parameters
-11.o-m-guide=O&M Guide
+11.o-m-guide=OMS Community Edition O&M
 4.store-component-parameters=Store parameters
 8.connector-parameters=Connector parameters
 12.reference-guide=Reference Guide
