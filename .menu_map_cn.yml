@@ -6,6 +6,7 @@
 3.user-center=个人中心
 6.data-migration=数据迁移
 15.manage-data-migration-projects=管理数据迁移项目
+17.supported-ddl-operations-for-incremental-migration-and-limits=增量 DDL 支持的范围和限制
 7.data-synchronization=数据同步
 11.manage-a-data-synchronization-projects=管理数据同步项目
 8.create-and-manage-data-sources=新建及管理数据源
