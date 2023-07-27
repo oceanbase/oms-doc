@@ -24,9 +24,9 @@
 300.server=机器
 400.components=组件
 100.store=Store
-200.incr-sync=Incr-Sync
-300.full-import=Full-Import
-400.full-verify=Full-Verification
+200.connector=Connector
+300.jdbcwriter=JDBCWriter
+400.checker=Checker
 500.o-m-tickets=运维任务
 1000.system-management=系统管理
 100.permission-management=权限管理
