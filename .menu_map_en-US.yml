@@ -25,6 +25,7 @@
 200.alert-center=Alert center
 400.system-parameters=System parameters
 1100.o-m-guide=OMS Community Edition O&M
+300.o-m-components=Component O&M
 400.component-tuning=Component tuning
 500.component-parameters=Component parameters
 300.source-plugin=Source Plugin
@@ -41,7 +42,7 @@
 400.data-sync=Data synchronization
 100.sync-data-to-message-queue=FAQ about synchronization to a message queue
 500.data-migration-1=Data migration
+100.user-privileges=User privileges
 400.full-migration=Full migration
-300.full-faq=FAQ about full migration
 500.incremental-synchronization=Incremental synchronization
 1000.deployment=Installation and deployment

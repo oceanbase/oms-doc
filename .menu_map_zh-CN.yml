@@ -42,7 +42,7 @@
 400.data-sync=数据同步
 100.sync-data-to-message-queue=同步到消息队列常见问题
 500.data-migration-1=数据迁移
+100.user-privileges=用户权限
 400.full-migration=全量迁移
-300.full-faq=全量常见问题
 500.incremental-synchronization=增量同步
 1000.deployment=安装部署
