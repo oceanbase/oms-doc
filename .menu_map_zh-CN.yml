@@ -8,6 +8,7 @@
 1500.manage-data-migration-projects=管理数据迁移项目
 1700.supported-ddl-operations-for-incremental-migration-and-limits=增量 DDL 支持的范围和限制
 700.data-synchronization=数据同步
+1200.sync-function-introduction=功能介绍
 1100.manage-a-data-synchronization-projects=管理数据同步项目
 800.create-and-manage-data-sources=新建及管理数据源
 100.create-a-data-source=新建数据源
