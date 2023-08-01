@@ -6,7 +6,14 @@
 300.user-center=User center
 600.data-migration=Data migration
 1500.manage-data-migration-projects=Manage data migration projects
+1600.migration-function-introduction=Features
 1700.supported-ddl-operations-for-incremental-migration-and-limits=Supported DDL operations in incremental migration and limits
+100.mysql-to-obmysql=DDL synchronization from MySQL database to OceanBase Community Edition
+200.create-table=CREATE TABLE
+400.alter-table=ALTER TABLE
+1000.mysql-incompatible=DDL incompatibilities between MySQL database and OceanBase Community Edition
+200.create-table-incompatible=Incompatibilities of the CREATE TABLE statement
+300.alter-table-incompatible=Incompatibilities of the ALTER TABLE statement
 700.data-synchronization=Data synchronization
 1100.manage-a-data-synchronization-projects=Manage data synchronization projects
 1200.sync-function-introduction=Features

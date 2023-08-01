@@ -6,7 +6,14 @@
 300.user-center=个人中心
 600.data-migration=数据迁移
 1500.manage-data-migration-projects=管理数据迁移项目
-1700.supported-ddl-operations-for-incremental-migration-and-limits=增量 DDL 支持的范围和限制
+1600.migration-function-introduction=功能介绍
+1700.supported-ddl-operations-for-incremental-migration-and-limits=同步 DDL 的支持范围和使用限制
+100.mysql-to-obmysql=MySQL 数据库至 OceanBase 社区版的同步 DDL
+200.create-table=创建表 CREATE TABLE
+400.alter-table=修改表 ALTER TABLE
+1000.mysql-incompatible=MySQL 数据库和 OceanBase 社区版的 DDL 不兼容点
+200.create-table-incompatible=创建表不兼容点
+300.alter-table-incompatible=修改表不兼容点
 700.data-synchronization=数据同步
 1100.manage-a-data-synchronization-projects=管理数据同步项目
 1200.sync-function-introduction=功能介绍
