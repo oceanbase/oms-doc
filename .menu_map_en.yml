@@ -9,6 +9,7 @@
 1700.supported-ddl-operations-for-incremental-migration-and-limits=Supported DDL operations in incremental migration and limits
 700.data-synchronization=Data synchronization
 1100.manage-a-data-synchronization-projects=Manage data synchronization projects
+1200.sync-function-introduction=Features
 800.create-and-manage-data-sources=Create and manage data sources
 100.create-a-data-source=Create data sources
 200.manage-data-sources=Manage data sources
