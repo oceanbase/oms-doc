@@ -9,6 +9,7 @@
 1700.supported-ddl-operations-for-incremental-migration-and-limits=增量 DDL 支持的范围和限制
 700.data-synchronization=数据同步
 1100.manage-a-data-synchronization-projects=管理数据同步项目
+1200.sync-function-introduction=功能介绍
 800.create-and-manage-data-sources=新建及管理数据源
 100.create-a-data-source=新建数据源
 200.manage-data-sources=管理数据源
@@ -34,7 +35,6 @@
 1200.reference-guide=参考指南
 100.api-reference=API 参考
 300.alarm-reference=告警参考
-1300.upgrade-guide=升级指南
 1400.faq=常见问题
 100.general-o-m=一般运维
 200.project-diagnosis=项目诊断
