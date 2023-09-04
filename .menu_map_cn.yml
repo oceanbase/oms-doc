@@ -15,7 +15,6 @@
 200.create-table-incompatible=创建表不兼容点
 300.alter-table-incompatible=修改表不兼容点
 700.data-synchronization=数据同步
-1200.sync-function-introduction=功能介绍
 1100.manage-a-data-synchronization-projects=管理数据同步项目
 1200.sync-function-introduction=功能介绍
 800.create-and-manage-data-sources=新建及管理数据源
