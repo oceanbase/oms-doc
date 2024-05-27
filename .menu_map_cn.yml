@@ -53,4 +53,5 @@
 100.user-privileges=用户权限
 400.full-migration=全量迁移
 500.incremental-synchronization=增量同步
+600.login-password=登录及密码
 1000.deployment=安装部署
