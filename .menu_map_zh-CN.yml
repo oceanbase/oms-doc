@@ -5,7 +5,7 @@
 500.oms-console=管理控制台
 300.user-center=个人中心
 600.data-migration=数据迁移
-1500.manage-data-migration-projects=管理数据迁移项目
+1500.manage-data-migration-projects=管理数据迁移任务
 1600.migration-function-introduction=功能介绍
 1700.supported-ddl-operations-for-incremental-migration-and-limits=同步 DDL 的支持范围和使用限制
 100.mysql-to-obmysql=MySQL 数据库至 OceanBase 社区版的同步 DDL
@@ -15,7 +15,7 @@
 200.create-table-incompatible=创建表不兼容点
 300.alter-table-incompatible=修改表不兼容点
 700.data-synchronization=数据同步
-1100.manage-a-data-synchronization-projects=管理数据同步项目
+1100.manage-a-data-synchronization-projects=管理数据同步任务
 1200.sync-function-introduction=功能介绍
 800.create-and-manage-data-sources=新建及管理数据源
 100.create-a-data-source=新建数据源
@@ -45,7 +45,7 @@
 1300.upgrade-guide=升级指南
 1400.faq=常见问题
 100.general-o-m=一般运维
-200.project-diagnosis=项目诊断
+200.project-diagnosis=任务诊断
 300.ops-monitoring=运维监控
 400.data-sync=数据同步
 100.sync-data-to-message-queue=同步到消息队列常见问题
