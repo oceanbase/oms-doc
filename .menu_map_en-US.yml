@@ -5,7 +5,7 @@
 500.oms-console=OMS Community Edition console
 300.user-center=User center
 600.data-migration=Data migration
-1500.manage-data-migration-projects=Manage data migration projects
+1500.manage-data-migration-projects=Manage data migration tasks
 1600.migration-function-introduction=Features
 1700.supported-ddl-operations-for-incremental-migration-and-limits=Supported DDL operations in incremental migration and limits
 100.mysql-to-obmysql=DDL synchronization from MySQL database to OceanBase Community Edition
@@ -15,7 +15,7 @@
 200.create-table-incompatible=Incompatibilities of the CREATE TABLE statement
 300.alter-table-incompatible=Incompatibilities of the ALTER TABLE statement
 700.data-synchronization=Data synchronization
-1100.manage-a-data-synchronization-projects=Manage data synchronization projects
+1100.manage-a-data-synchronization-projects=Manage data synchronization tasks
 1200.sync-function-introduction=Features
 800.create-and-manage-data-sources=Create and manage data sources
 100.create-a-data-source=Create data sources
@@ -45,7 +45,7 @@
 1300.upgrade-guide=Upgrade Guide
 1400.faq=FAQ
 100.general-o-m=General O&M
-200.project-diagnosis=Project diagnostics
+200.project-diagnosis=Task diagnostics
 300.ops-monitoring=OPS & monitoring
 400.data-sync=Data synchronization
 100.sync-data-to-message-queue=FAQ about synchronization to a message queue
