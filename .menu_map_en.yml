@@ -53,4 +53,5 @@
 100.user-privileges=User privileges
 400.full-migration=Full migration
 500.incremental-synchronization=Incremental synchronization
+600.login-password=Logon and password
 1000.deployment=Installation and deployment
