@@ -27,6 +27,10 @@
 200.incr-sync=Incr-Sync
 300.full-import=Full-Import
 400.full-verify=Full-Verification
+500.component-parameters=组件参数说明
+300.source-plugin=Source Plugin
+400.sink-plugin=Sink Plugin
+500.store-component-parameters=Store 组件参数说明
 500.o-m-tickets=运维任务
 1000.system-management=系统管理
 100.permission-management=权限管理
@@ -35,10 +39,6 @@
 1100.o-m-guide=运维 OMS 社区版
 300.o-m-components=组件运维
 400.component-tuning=组件调优
-500.component-parameters=组件参数说明
-300.source-plugin=Source Plugin
-400.sink-plugin=Sink Plugin
-500.store-component-parameters=Store 组件参数说明
 1200.reference-guide=参考指南
 100.api-reference=API 参考
 300.alarm-reference=告警参考

@@ -27,6 +27,10 @@
 200.incr-sync=Incr-Sync
 300.full-import=Full-Import
 400.full-verify=Full-Verification
+500.component-parameters=Component parameters
+300.source-plugin=Source Plugin
+400.sink-plugin=Sink Plugin
+500.store-component-parameters=Store parameters
 500.o-m-tickets=O&M Task
 1000.system-management=System management
 100.permission-management=Permission Management
@@ -35,10 +39,6 @@
 1100.o-m-guide=OMS Community Edition O&M
 300.o-m-components=Component O&M
 400.component-tuning=Component tuning
-500.component-parameters=Component parameters
-300.source-plugin=Source Plugin
-400.sink-plugin=Sink Plugin
-500.store-component-parameters=Store parameters
 1200.reference-guide=Reference Guide
 100.api-reference=API Reference
 300.alarm-reference=Alert Reference
