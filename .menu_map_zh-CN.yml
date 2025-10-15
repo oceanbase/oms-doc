@@ -2,6 +2,8 @@
 300.architecture=系统架构
 300.quick-start=快速上手
 400.deployment-guide=部署 OMS 社区版
+500.docker-deploy=通过 Docker 部署 OMS 社区版
+600.k8s-deploy=通过 k8s 部署 OMS 社区版
 500.oms-console=管理控制台
 300.user-center=个人中心
 600.data-migration=数据迁移
