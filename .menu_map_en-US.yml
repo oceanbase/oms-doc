@@ -2,6 +2,8 @@
 300.architecture=Architecture
 300.quick-start=Quick Start
 400.deployment-guide=Deploy OMS Community Edition
+500.docker-deploy=Deploy by using Docker
+600.k8s-deploy=Deploy by using k8s
 500.oms-console=OMS Community Edition console
 300.user-center=User center
 600.data-migration=Data migration
