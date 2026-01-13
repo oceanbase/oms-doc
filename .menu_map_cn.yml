@@ -38,6 +38,7 @@
 100.permission-management=权限管理
 200.alert-center=告警中心
 400.system-parameters=系统参数
+500.sso-management=SSO 管理
 1100.o-m-guide=运维 OMS 社区版
 300.o-m-components=组件运维
 400.component-tuning=组件调优
