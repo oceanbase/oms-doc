@@ -38,6 +38,7 @@
 100.permission-management=Permission Management
 200.alert-center=Alert center
 400.system-parameters=System parameters
+500.sso-management=SSO management
 1100.o-m-guide=OMS Community Edition O&M
 300.o-m-components=Component O&M
 400.component-tuning=Component tuning
